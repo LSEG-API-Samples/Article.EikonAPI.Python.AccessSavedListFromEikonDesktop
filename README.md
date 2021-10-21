@@ -4,6 +4,6 @@ This Jupyter Notebook accompanies the article titled ["Accessing saved list on E
 
 **Pre-requisites:** 
 
-**Thomson Reuters Eikon** or **Refinitiv Workspace** with access to [Eikon Data APIs](https://developers.refinitiv.com/eikon-data-apis)
+**Refinitiv Eikon** or **Refinitiv Workspace** with access to [Eikon Data APIs](https://developers.refinitiv.com/en/api-catalog/eikon/eikon-data-api)
 
 **Required Python Packages:** eikon, pandas
